@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Amazon Cafe</string>
+    <string name="logo_description">logo coffee</string>
+    <string name="welcome">Hello, user!</string>
+    <string name="hint_name">Put your Name:</string>
+    <string name="hint_password">Put Password:</string>
+    <string name="button">CREATE ORDER</string>
+    <string name="toast">Not all fields are filled!</string>
+    <string name="hello_user">Hello, %s! What will you drink?</string>
+    <string name="radiobutton_tea">Tea</string>
+    <string name="radiobutton_coffee">Coffee</string>
+    <string name="textview_choose_drink">What to add in your %s?</string>
+    <string name="checkbox_milk">Milk</string>
+    <string name="checkbox_sugar">Sugar</string>
+    <string name="checkbox_lemon">Lemon</string>
+    <string name="textview_choose_options">Please, choose your drink</string>
+    <string name="button_send_order">buttonOfOrder</string>
+    <string name="defaolt_name">User</string>
+    <string name="default_password">Password</string>
+    <string name="order">Name: %s\nPassword: %s\nDrink: %s\nKind of drink: %s\n</string>
+    <string name="need_additions">Necessary supplements:</string>
+
+    <string-array name="spinner_tea">
+        <item>Black tea</item>
+        <item>Green tea</item>
+        <item>Red tea</item>
+    </string-array>
+    <string-array name="spinner_coffee">
+        <item>Americano</item>
+        <item>Espresso</item>
+        <item>Capuchino</item>
+    </string-array>
+</resources>
